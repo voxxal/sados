@@ -1,2 +1,2 @@
 # sados
-zig operating system
+zig operating system. currently just a bootloader
