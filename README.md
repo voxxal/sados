@@ -1,0 +1,2 @@
+# sados
+zig operating system
